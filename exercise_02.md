@@ -1,10 +1,10 @@
 # Exercise_02
 ```python
-#TO SHOW STRING "I LIKE YOU!" IN THE WINDOWS CONSOLE
+#TO SHOW STRING "Zhao!" IN THE WINDOWS CONSOLE
 import os
 import time
 #windows console width
-width = 79
+width = 43
 #
 printedMessage = ["########   ##                              ",
                   "     ##    ##                              ",
