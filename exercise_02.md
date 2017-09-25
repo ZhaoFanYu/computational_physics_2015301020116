@@ -25,5 +25,5 @@ while True:
     if offset <= len(printedMessage[0]) * -1:
         offset = width
     #
-    time.sleep(0.05)
+    time.sleep(0.1)
     #
