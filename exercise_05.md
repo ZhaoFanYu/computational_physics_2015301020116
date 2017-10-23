@@ -5,7 +5,7 @@
 ### 分析
 考虑在初速度为160km/h（一般职业运动员的极限水平）的情况下以什么角度击出旋转球时棒球的飞行距离最远
 代码如下
-()
+(https://github.com/ZhaoFanYu/computational_physics_2015301020116/blob/master/2.19.py)
 得到图像如下
 ![](https://github.com/2739515436/compuational_physics_N2015301020108/blob/master/Z_VE%7D6XMDPD%7BQM%5BP%5BL6LAZY.png)
 ### 结论
