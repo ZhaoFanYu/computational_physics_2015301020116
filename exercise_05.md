@@ -9,7 +9,7 @@
 
 得到图像如下
 
-![](https://github.com/ZhaoFanYu/computational_physics_2015301020116/blob/master/84DEB2F7B5BA4BCB3A36B9B6F1D84901.jpg)
+![](https://github.com/ZhaoFanYu/computational_physics_2015301020116/blob/master/Z_VE%7D6XMDPD%7BQM%5BP%5BL6LAZlY.png)
 
 ### 结论
 当初始角度为36.8度时射程最远.
