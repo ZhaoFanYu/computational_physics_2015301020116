@@ -45,9 +45,8 @@
 ![](https://github.com/ZhaoFanYu/computational_physics_2015301020116/blob/master/图片6.png)\
 ![](https://github.com/ZhaoFanYu/computational_physics_2015301020116/blob/master/图片7.png)\
 我们得出结论当N远大于1时，其分布为高斯分布，下面用上述模型进行验证：\
-
+![](https://github.com/ZhaoFanYu/computational_physics_2015301020116/blob/master/图片%208.png)\
 代码如下：\
-
 [程序4](https://github.com/ZhaoFanYu/computational_physics_2015301020116/blob/master/untitled3.py)\
 
 可见确实为明显的高斯分布。
