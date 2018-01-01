@@ -26,14 +26,13 @@
 更进一步的，我们可以研究三维情况下的随机行走模型，代码见下\:
 [程序3](https://github.com/ZhaoFanYu/computational_physics_2015301020116/blob/master/untitled2.py)\
 结果如图：\
-\
+![](https://github.com/ZhaoFanYu/computational_physics_2015301020116/blob/master/图片%203.png)\
 ####2.非等概率随机行走
 以上的情况都是建立在两个方向等概率情况下，那如果概率不同又会是什么情况。\
 我们将上边一维情况中向左走概率调为0.4向右走概率为0.6，进行模拟，结果如下：\
-\
-
+![](https://github.com/ZhaoFanYu/computational_physics_2015301020116/blob/master/图片%204.png)\
 可见已经和等概率情况有了很大不同，那么考虑极限情况，向左概率调为0.49，向右概率0.51，结果如下：\
-\
+![](https://github.com/ZhaoFanYu/computational_physics_2015301020116/blob/master/图片%205.png)\
 可以看出当步数较小的时候基本还是在中轴附近，但随着步数的增多，将偏向右边越远。\
 从而引出统计物理中习题问题：\
 当步数N很大时，求走N步后离原点距离的分布。\
@@ -43,8 +42,8 @@
 (2)、证明当N远大于1时，其分布为高斯分布。\
 
 首先运用统计物理学知识做出解答，再用代码进行验证。\
-\
-
+![](https://github.com/ZhaoFanYu/computational_physics_2015301020116/blob/master/图片6.png)\
+![](https://github.com/ZhaoFanYu/computational_physics_2015301020116/blob/master/图片7.png)\
 我们得出结论当N远大于1时，其分布为高斯分布，下面用上述模型进行验证：\
 
 代码如下：\
