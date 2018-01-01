@@ -15,7 +15,7 @@
 程序代码如下:\
 [程序1](https://github.com/ZhaoFanYu/computational_physics_2015301020116/blob/master/untitled0.py)\
 产生的结果如图所示\
-\
+![](https://github.com/ZhaoFanYu/computational_physics_2015301020116/blob/master/图片%201.png)\
 #####1.2二维状态
 对于二维的随机行走，我们可以采用创建两个数组构成二维数组来表示，此时粒子每一步有四个方向可供选择，则情况较为复杂\
 程序代码下：\
