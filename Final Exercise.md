@@ -13,18 +13,18 @@
 假设有一个微观粒子，它在下一时刻向左或向右运动的概率相等，若我们统计他走过500次的位移，得到的便是随机行走的模型\
 我们产生一个0到1之间的随机数组，如过大于0.5则向左走，反之向右,随即模拟。\
 程序代码如下:\
-[程序1]https://github.com/ZhaoFanYu/computational_physics_2015301020116/blob/master/untitled0.py
+[程序1](https://github.com/ZhaoFanYu/computational_physics_2015301020116/blob/master/untitled0.py)\
 产生的结果如图所示\
 \
 #####1.2二维状态
 对于二维的随机行走，我们可以采用创建两个数组构成二维数组来表示，此时粒子每一步有四个方向可供选择，则情况较为复杂\
 程序代码下：\
-[程序2]https://github.com/ZhaoFanYu/computational_physics_2015301020116/blob/master/untitled1.py
+[程序2](https://github.com/ZhaoFanYu/computational_physics_2015301020116/blob/master/untitled1.py)\
 结果如图：\
 \
 #####1.3三维状态
 更进一步的，我们可以研究三维情况下的随机行走模型，代码见下\:
-[程序3]https://github.com/ZhaoFanYu/computational_physics_2015301020116/blob/master/untitled2.py
+[程序3](https://github.com/ZhaoFanYu/computational_physics_2015301020116/blob/master/untitled2.py)\
 结果如图：\
 \
 ####2.非等概率随机行走
@@ -49,6 +49,6 @@
 
 代码如下：\
 
-[程序4]https://github.com/ZhaoFanYu/computational_physics_2015301020116/blob/master/untitled3.py
+[程序4](https://github.com/ZhaoFanYu/computational_physics_2015301020116/blob/master/untitled3.py)\
 
 可见确实为明显的高斯分布。
