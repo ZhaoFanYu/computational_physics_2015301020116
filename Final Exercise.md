@@ -48,5 +48,4 @@
 ![](https://github.com/ZhaoFanYu/computational_physics_2015301020116/blob/master/图片%208.png)\
 代码如下：\
 [程序4](https://github.com/ZhaoFanYu/computational_physics_2015301020116/blob/master/untitled3.py)\
-
 可见确实为明显的高斯分布。
