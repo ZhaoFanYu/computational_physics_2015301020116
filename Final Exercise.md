@@ -21,7 +21,7 @@
 程序代码下：\
 [程序2](https://github.com/ZhaoFanYu/computational_physics_2015301020116/blob/master/untitled1.py)\
 结果如图：\
-\
+![](https://github.com/ZhaoFanYu/computational_physics_2015301020116/blob/master/图片%202.png)\
 #####1.3三维状态
 更进一步的，我们可以研究三维情况下的随机行走模型，代码见下\:
 [程序3](https://github.com/ZhaoFanYu/computational_physics_2015301020116/blob/master/untitled2.py)\
